@@ -1,6 +1,6 @@
 # User entered
-.idea
-Lessons
+*/.idea
+*/Lessons
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
