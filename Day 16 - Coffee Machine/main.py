@@ -89,3 +89,4 @@ while poweredOn:
         if process_resources(drink["ingredients"]):
             if process_transaction(drink["cost"]):
                 make_coffee(choice, drink["ingredients"])
+
