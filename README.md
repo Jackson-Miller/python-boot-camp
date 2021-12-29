@@ -1,4 +1,4 @@
-# python-boot-camp
+# python-boot-camp 🐍
 [![CodeQL](https://github.com/Jackson-Miller/python-boot-camp/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jackson-Miller/python-boot-camp/actions/workflows/codeql-analysis.yml)
 
 
