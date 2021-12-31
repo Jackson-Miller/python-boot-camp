@@ -12,7 +12,8 @@ Goals with this project.
 - Learn Git
 
 ### Folder Content
-- Day 18 - Hirst Painting
+- Day 19 - Turtle Race project
+- Day 18 - Hirst Painting project
 - Day 17 - Quiz project
 - Day 16 - Coffee Maker project
     - Object oriented programming
