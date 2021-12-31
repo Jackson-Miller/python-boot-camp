@@ -18,4 +18,5 @@ Goals with this project.
 - Day 16 - Coffee Maker project
     - Object oriented programming
 - Day 17 - Quiz project
+- Day 18 - Hirst Painting
 
