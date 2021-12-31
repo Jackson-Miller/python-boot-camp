@@ -12,11 +12,15 @@ Goals with this project.
 - Learn Git
 
 ### Folder Content
-- First 15 Days - Basic coding challenges
-- Day 15 - Coffee Maker project
-    - Procedural oriented programming
+- Day 18 - Hirst Painting
+- Day 17 - Quiz project
 - Day 16 - Coffee Maker project
     - Object oriented programming
-- Day 17 - Quiz project
-- Day 18 - Hirst Painting
+- Day 15 - Coffee Maker project
+    - Procedural oriented programming
+- First 15 Days - Basic coding challenges
+
+
+
+
 
