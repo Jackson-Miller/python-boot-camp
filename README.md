@@ -12,14 +12,14 @@ Goals with this project.
 - Learn Git
 
 ### Folder Content
-- Day 19 - Turtle Race project
-- Day 18 - Hirst Painting project
-- Day 17 - Quiz project
-- Day 16 - Coffee Maker project
+- [Day 19](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2019) - Turtle Race project
+- [Day 18](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2018) - Hirst Painting project
+- [Day 17](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2017) - Quiz project
+- [Day 16](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2016) - Coffee Maker project
     - Object oriented programming
-- Day 15 - Coffee Maker project
+- [Day 15](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2015) - Coffee Maker project
     - Procedural oriented programming
-- First 15 Days - Basic coding challenges
+- [First 15 Days](https://github.com/Jackson-Miller/python-boot-camp/tree/main/First%2015%20Days) - Basic coding challenges
 
 
 
