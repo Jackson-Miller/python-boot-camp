@@ -12,6 +12,7 @@ Goals with this project.
 - Learn Git
 
 ### Folder Content
+- [Day 22](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2022) - Pong Game project
 - [Day 21](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2021) - Snake Game project
 - [Day 19](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2019) - Turtle Race project
 - [Day 18](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2018) - Hirst Painting project
