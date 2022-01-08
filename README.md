@@ -12,6 +12,7 @@ Goals with this project.
 - Learn Git
 
 ### Folder Content
+- [Day 26](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2026) - NATO Phonetic Alphabet
 - [Day 25](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2025) - Guess the States project
 - [Day 24](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2024) - Mail Merge project
   - Introduction into working with the file system
