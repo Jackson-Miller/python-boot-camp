@@ -12,6 +12,7 @@ Goals with this project.
 - Learn Git
 
 ### Folder Content
+- [Day 29](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2029) - Password Manager project
 - [Day 28](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2028) - Pomodoro Timer project
 - [Day 27](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2027) - Miles to Km converter project
   - GUI designs with Tkinter
