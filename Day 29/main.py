@@ -1,4 +1,5 @@
 import os
+import json
 import random
 import string
 from tkinter import *
@@ -16,22 +17,56 @@ def generate_password():
 
 # ---------------------------- SAVE PASSWORD ------------------------------- #
 def add_account():
+    site = web_input.get()
+    username = user_input.get()
+    sec = pass_input.get()
+    new_data = {
+        site: {
+            "username": username,
+            "password": sec
+        }
+    }
+
     # Check if any files are blank
-    if len(web_input.get()) == 0 or len(user_input.get()) == 0 or len(pass_input.get()) == 0:
+    if len(site) == 0 or len(username) == 0 or len(sec) == 0:
         messagebox.showerror(title="Oops", message="Please fill in all fields.")
     else:
-        # Prompt user to confirm changes
-        accept = messagebox.askokcancel(title="Are you sure?", message="Are you sure you want to save the account details?")
-        if accept:
-            # Write the data to file
-            with open("data.txt", mode="a") as file:
-                file.write(f"{web_input.get()} | {user_input.get()} | {pass_input.get()}\n")
+        # Write the data to file
+        try:
+            with open("data.json", mode="r") as file:
+                data = json.load(file)
+        except IOError:
+            with open("data.json", mode="w") as file:
+                json.dump(new_data, file, indent=4)
+        else:
+            data.update(new_data)
+
+            with open("data.json", mode="w") as file:
+                json.dump(data, file, indent=4)
+        finally:
             # Set the password to clipboard
             window.clipboard_clear()
-            window.clipboard_append(pass_input.get())
+            window.clipboard_append(sec)
             # Clear the form for the user to add another account
             web_input.delete(0, END)
             pass_input.delete(0, END)
+
+
+# -------------------------- Search SETUP ----------------------------- #
+def search_data():
+    site = web_input.get()
+    try:
+        with open("data.json", mode="r") as data_file:
+            data = json.load(data_file)
+    except IOError:
+        messagebox.showwarning(title="Warning", message="No passwords exist!  Please add sites before searching.")
+    else:
+        if site in data:
+            email = data[site]["username"]
+            sec = data[site]["password"]
+            messagebox.showinfo(title=site, message=f"Email: {email}\nPassword: {sec}")
+        else:
+            messagebox.showwarning(title="Warning", message=f"No details stored for {site}.")
 
 
 # ---------------------------- UI SETUP ------------------------------- #
@@ -50,9 +85,13 @@ canvas.grid(column=1, row=0)
 # Website section
 web_label = Label(text="Website:")
 web_label.grid(column=0, row=1)
-web_input = Entry(width=50)
-web_input.grid(column=1, row=1, columnspan=2)
+web_input = Entry(width=32)
+web_input.grid(column=1, row=1)
 web_input.focus()
+
+# Search section
+search_button = Button(width=14, text="Search", command=search_data)
+search_button.grid(column=2, row=1)
 
 # Username section
 user_label = Label(text="Username:")
@@ -69,7 +108,7 @@ pass_input.grid(column=1, row=3, columnspan=2)
 pass_input.insert(END, string="Click 'Generate Password' or type the password here")
 pass_len_label = Label(text="Password length:")
 pass_len_label.grid(column=0, row=4)
-pass_len = Spinbox(from_=8, to=100, width=30)
+pass_len = Spinbox(from_=12, to=100, width=30)
 pass_len.grid(column=1, row=4)
 pass_button = Button(text="Generate Password", command=generate_password)
 pass_button.grid(column=2, row=4)
