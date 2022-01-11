@@ -1,4 +1,4 @@
-#⚠️🚨 WARNING 🚨⚠️
+# ⚠️🚨 WARNING 🚨⚠️
 ## If you happen to find this code...
 ## DO NOT USE THIS
 
