@@ -1,4 +1,4 @@
-# python-boot-camp  🐍
+# 🐍 python-boot-camp  🐍
 [![CodeQL](https://github.com/Jackson-Miller/python-boot-camp/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jackson-Miller/python-boot-camp/actions/workflows/codeql-analysis.yml)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Jackson-Miller/python-boot-camp)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Jackson-Miller/python-boot-camp)
@@ -10,6 +10,9 @@ Personal repo for the Udemy 100 Days of Code: The Complete Python Pro Bootcamp f
 Goals with this project.
 - Learn Python
 - Learn Git
+
+# ⚠️🚨 WARNING 🚨⚠️
+This is all a learning exercise. DO NOT use any code here for any reason as it is not secure.
 
 ### Folder Content
 - [Day 32](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2031) - Automated Birthday Email project
