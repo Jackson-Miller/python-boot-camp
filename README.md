@@ -12,6 +12,7 @@ Goals with this project.
 - Learn Git
 
 ### Folder Content
+- [Day 32](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2031) - Automated Birthday Email project
 - [Day 31](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2031) - Flashcard Game project
 - [Day 29](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2029) - Password Manager project
 - [Day 28](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2028) - Pomodoro Timer project
