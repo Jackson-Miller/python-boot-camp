@@ -12,9 +12,11 @@ Goals with this project.
 - Learn Git
 
 # ⚠️🚨 WARNING 🚨⚠️
-This is all a learning exercise. DO NOT use any code here for any reason as it is not secure.
+This is all a learning exercise. **DO NOT** use any code here for any reason as it is not secure.
 
 ### Folder Content
+- [Day 33](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2031) - Kanye West Quote App and IIS Tracker projects
+  - Working with APIs
 - [Day 32](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2031) - Automated Birthday Email project
 - [Day 31](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2031) - Flashcard Game project
 - [Day 29](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2029) - Password Manager project
