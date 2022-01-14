@@ -15,9 +15,9 @@ Goals with this project.
 This is all a learning exercise. **DO NOT** use any code here for any reason as it is not secure.
 
 ### Folder Content
-- [Day 33](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2031) - Kanye West Quote App and IIS Tracker projects
+- [Day 33](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2033) - Kanye West Quote App and IIS Tracker projects
   - Working with APIs
-- [Day 32](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2031) - Automated Birthday Email project
+- [Day 32](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2032) - Automated Birthday Email project
 - [Day 31](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2031) - Flashcard Game project
 - [Day 29](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2029) - Password Manager project
 - [Day 28](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2028) - Pomodoro Timer project
