@@ -15,6 +15,7 @@ Goals with this project.
 This is all a learning exercise. **DO NOT** use any code here for any reason as it is not secure.
 
 ### Folder Content
+- [Day 35](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2035) - Rain Alert SMS project
 - [Day 34](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2034) - Quiz Game, from day 17, now with GUI project
 - [Day 33](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2033) - Kanye West Quote App and IIS Tracker projects
   - Working with APIs
