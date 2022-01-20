@@ -15,6 +15,7 @@ Goals with this project.
 This is all a learning exercise. **DO NOT** use any code here for any reason as it is not secure.
 
 ### Folder Content
+- [Day 38](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2038) - Workout Tracking Using Google Sheets project
 - [Day 36](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2036) - Stock Alerts SMS project
 - [Day 35](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2035) - Rain Alert SMS project
 - [Day 34](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2034) - Quiz Game, from day 17, now with GUI project
