@@ -15,6 +15,7 @@ Goals with this project.
 This is all a learning exercise. **DO NOT** use any code here for any reason as it is not secure.
 
 ### Folder Content
+- [Day 46](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2046) - Spotify Playlist Generator project
 - [Day 45](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2045) - Web Scraping Top 100 Movie List project
 - [Day 40](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2040) - Cheap Flights project
 - [Day 38](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2038) - Workout Tracking Using Google Sheets project
