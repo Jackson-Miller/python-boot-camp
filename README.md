@@ -5,6 +5,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Jackson-Miller/python-boot-camp)
 [![GitHub](https://img.shields.io/github/license/Jackson-Miller/python-boot-camp)](https://github.com/Jackson-Miller/python-boot-camp/blob/main/LICENSE)
 
+
 Personal repo for the Udemy 100 Days of Code: The Complete Python Pro Bootcamp for 2022.
 
 Goals with this project.
@@ -15,6 +16,7 @@ Goals with this project.
 This is all a learning exercise. **DO NOT** use any code here for any reason as it is not secure.
 
 ### Folder Content
+- [Day 47](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2047) - Amazon Price Checker project
 - [Day 46](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2046) - Spotify Playlist Generator project
 - [Day 45](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2045) - Web Scraping Top 100 Movie List project
 - [Day 40](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2040) - Cheap Flights project
