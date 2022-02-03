@@ -16,6 +16,7 @@ Goals with this project.
 This is all a learning exercise. **DO NOT** use any code here for any reason as it is not secure.
 
 ### Folder Content
+- [Day 48](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2048) - Web automation with Selenium
 - [Day 47](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2047) - Amazon Price Checker project
 - [Day 46](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2046) - Spotify Playlist Generator project
 - [Day 45](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2045) - Web Scraping Top 100 Movie List project
