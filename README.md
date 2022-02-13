@@ -16,6 +16,7 @@ Goals with this project.
 This is all a learning exercise. **DO NOT** use any code here for any reason as it is not secure.
 
 ### Folder Content
+- [Day 55](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2055) - Number guessing game website project
 - [Day 54](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2054) - Intro into web development with Flask
 - [Day 49](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2049) - Automate Applying for LinkedIn Jobs project
 - [Day 48](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2048) - Web automation with Selenium
