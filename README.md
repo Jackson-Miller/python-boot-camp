@@ -16,6 +16,8 @@ Goals with this project.
 This is all a learning exercise. **DO NOT** use any code here for any reason as it is not secure.
 
 ### Folder Content
+- [Day 57](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2057) - Day 1 Blog Site project
+  - Working with Jinja templates
 - [Day 56](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2056) - Name Card website project
 - [Day 55](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2055) - Number guessing game website project
 - [Day 54](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2054) - Intro into web development with Flask
