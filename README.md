@@ -16,7 +16,7 @@ Goals with this project.
 This is all a learning exercise. **DO NOT** use any code here for any reason as it is not secure.
 
 ### Folder Content
-- [Day 58](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2058) - Day 2 Blog Site project
+- [Day 59](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2059) - Day 2 Blog Site project
   - Using Bootstarp front end
 - [Day 57](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2057) - Day 1 Blog Site project
   - Working with Jinja templates
