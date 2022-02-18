@@ -16,6 +16,8 @@ Goals with this project.
 This is all a learning exercise. **DO NOT** use any code here for any reason as it is not secure.
 
 ### Folder Content
+- [Day 61](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2061) - Working with WTForms
+- [Day 60](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2060) - Working with Flask and POST method
 - [Day 59](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2059) - Day 2 Blog Site project
   - Using Bootstarp front end
 - [Day 57](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2057) - Day 1 Blog Site project
