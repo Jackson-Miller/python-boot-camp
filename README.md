@@ -16,6 +16,8 @@ Goals with this project.
 This is all a learning exercise. **DO NOT** use any code here for any reason as it is not secure.
 
 ### Folder Content
+- [Day 63](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2063) - Book Rating Site
+  - Using SQLite
 - [Day 62](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2062) - Cafe Rating Site
 - [Day 61](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2061) - Working with WTForms
 - [Day 60](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2060) - Working with Flask and POST method
