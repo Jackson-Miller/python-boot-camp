@@ -16,6 +16,7 @@ Goals with this project.
 This is all a learning exercise. **DO NOT** use any code here for any reason as it is not secure.
 
 ### Folder Content
+- [Day 66](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2066) - Cafe Rating Site RESTful API
 - [Day 64](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2064) - Movie Rating Site
 - [Day 63](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2063) - Book Rating Site
   - Using SQLite
