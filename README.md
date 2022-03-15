@@ -16,6 +16,8 @@ Goals with this project.
 This is all a learning exercise. **DO NOT** use any code here for any reason as it is not secure.
 
 ### Folder Content
+- [Day 68](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2068) - Authentication with Flask
+  - Also messing with [argon2id](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Password_Storage_Cheat_Sheet.md#argon2id) for password hashing
 - [Day 66](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2066) - Cafe Rating Site RESTful API
 - [Day 64](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2064) - Movie Rating Site
 - [Day 63](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2063) - Book Rating Site
