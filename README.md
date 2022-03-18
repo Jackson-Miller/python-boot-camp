@@ -18,6 +18,7 @@ This is all a learning exercise. **DO NOT** use any code here for any reason as 
 ### Folder Content
 - [Day 68](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2068) - Authentication with Flask
   - Also messing with [argon2id](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Password_Storage_Cheat_Sheet.md#argon2id) for password hashing
+- [Day 67](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2067) - Blog Site RESTful API
 - [Day 66](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2066) - Cafe Rating Site RESTful API
 - [Day 64](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2064) - Movie Rating Site
 - [Day 63](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2063) - Book Rating Site
