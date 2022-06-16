@@ -69,7 +69,6 @@ def login():
         email = request.form.get("email")
 
         user = User.query.filter_by(email=email).first()
-
         if user is None:
             flash("Invalid username or password.")
         else:
