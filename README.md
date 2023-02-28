@@ -16,6 +16,7 @@ Goals with this project.
 This is all a learning exercise. **DO NOT** use any code here for any reason as it is not secure.
 
 ### Folder Content
+- [Day 71](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2069) - Data Exploration with Pandas
 - [Day 69](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2069) - Day 4 Blog Site adding users and comments
 - [Day 68](https://github.com/Jackson-Miller/python-boot-camp/tree/main/Day%2068) - Authentication with Flask
   - Also messing with [argon2id](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Password_Storage_Cheat_Sheet.md#argon2id) for password hashing
